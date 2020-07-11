@@ -1,0 +1,9 @@
+Package: com.browsky300.sebstheme
+Name: Seb's Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A theme made by Seb.
+Author: yourmom26 <sebastiansatchu@gmail.com>
+Maintainer: browsky300 <maxim.bondar@outlook.com>
+Section: Themes
+Depends: com.spark.snowboard
